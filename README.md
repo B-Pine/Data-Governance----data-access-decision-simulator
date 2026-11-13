@@ -1,8 +1,8 @@
 # Data Access Decision Simulator
 
-**Name:** Innocent BUGINGO
-**Module:** Data Governance & Integrity
-**Company:** EduConnect · Applied under Rwanda's Law No 058/2021 relating to the protection of personal data and privacy
+**Name:** Innocent BUGINGO  
+**Module:** Data Governance & Integrity  
+**Company:** EduConnect · Applied under Rwanda's Law No 058/2021 relating to the protection of personal data and privacy  
 
 ---
 
